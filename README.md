@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nabil! Passionaite CyberSecurity Engineer and GRC analyst </h1>
+<h1>Hi, I'm Nabil! Passionate CyberSecurity Engineer and GRC analyst </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
