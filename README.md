@@ -1,9 +1,9 @@
 <h1>Hi, I'm Nabil! Passionate CyberSecurity Engineer and GRC Analyst </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b> Azure / Cloud Projects </b>
-  - [Created a live HoneyNet/SOC in Azure] (https://github.com/nabilabdella/Azure-SOC)
+  - [Created a live SOC / HoneyNet in Azure] (https://github.com/nabilabdella/Azure-SOC)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
